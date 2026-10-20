@@ -10,7 +10,7 @@ import pandas as pd
 # CONFIGURAÇÕES (altere aqui, sem mexer nas funções)
 # =============================================================================
 
-ARQUIVO_ENTRADA = "ProgramaRodofaunaAtropelada.xlsx"
+ARQUIVO_ENTRADA = arquivo = "BaseDeDados/ProgramaRodofaunaAtropelada.xlsx"
 ARQUIVO_SAIDA = "dados_engenharia.xlsx"
 ABA_ENTRADA = 0  # índice ou nome da aba (0 = primeira aba)
 
